@@ -11,7 +11,7 @@ export default function Contact() {
                                 Get in touch:  Proud Indian
                             </h1>
                             <p className="text-normal text-lg sm:text-xl font-medium text-gray-600 mt-2">
-                                Fill in the form to start a conversation
+                                Fill in the form to start a conversation with Proud Indian
                             </p>
 
                             <div className="flex items-center mt-8 text-gray-600">
